@@ -1,6 +1,7 @@
 # monero-pool
 
-# HeroMiners Proxy Mining Control https://herominers.com
+# HeroMiners <a target="_blank" href="https://monero.herominers.com" title="Monero Mining" alt="Monero Mining" rel="dofollow">Monero Mining Pool</a> 
+# https://monero.herominers.com
 
 ![switch](https://images2.imgbox.com/25/91/gSBQWaig_o.png)
 
