@@ -1,5 +1,18 @@
 # monero-pool
 
+# HeroMiners Proxy Mining Control https://herominers.com
+
+![switch](https://images2.imgbox.com/25/91/gSBQWaig_o.png)
+
+Discord Channel: https://discord.gg/gvWSs84
+
+Telegram Channel: https://t.me/HeroMinersPool
+
+Twitter: https://twitter.com/HeroMinerss
+
+Front-end adaptation will be attempted.
+
+
 A Monero mining pool server written in C.
 
 Design decisions are focused on performance and efficiency, hence the use of
