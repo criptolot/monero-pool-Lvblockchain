@@ -1,6 +1,6 @@
 # monero-pool
 
-# HeroMiners <a target="_blank" href="https://monero.lvblockchain.com" title="Monero Mining" alt="Monero Mining" rel="dofollow">Monero Mining Pool</a> 
+# LVBLOCKCHAIN Miners <a target="_blank" href="https://monero.lvblockchain.com" title="Monero Mining" alt="Monero Mining" rel="dofollow">Monero Mining Pool</a> 
 # https://monero.lvblockchain.com
 
 ![switch](https://images2.imgbox.com/25/91/gSBQWaig_o.png)
